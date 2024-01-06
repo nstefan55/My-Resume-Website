@@ -238,6 +238,53 @@ li{
     padding-left: 0;
   }
 }
+@media(max-width: 420px) {
+
+  p{
+    font-size: .9em;
+    margin-left: 14px;
+  }
+
+  #user-name{
+    font-size: 1.5em;
+  }
+
+  #wrapper--hero{
+    flex-direction: column;
+    gap: 1em;
+  }
+
+  .profile-picture{
+    height: 200px;
+    width: 200px;
+  }
+
+  .section--page{
+    padding: 1em 0;
+  }
+
+  h1,h2,h3,h4{
+    display: flex;
+    justify-content: center;
+  }
+
+  .card--project{
+    display: flex;
+    justify-content: center;
+  }
+
+  .certificate-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50px;
+  }
+
+  .card--work-history{
+    border-left: none;
+    padding-left: 0;
+  }
+}
 
 
 
