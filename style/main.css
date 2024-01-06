@@ -114,6 +114,7 @@ li{
 
 #email{
   color: var(--mainTextColor);
+  cursor: pointer;
 }
 
 #bio, a{
