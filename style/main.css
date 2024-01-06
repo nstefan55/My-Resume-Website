@@ -84,6 +84,10 @@ li{
   margin: 1em 0 1em 0;
 }
 
+.section--page h1,.section--page h2{
+  color: var(--mainLinkColor-dark);
+}
+
 #wrapper--hero{
   display: flex;
   align-items: center;
@@ -110,6 +114,7 @@ li{
 
 #user-name{
   font-size: 3em;
+  color: #fff;
 }
 
 #email{
