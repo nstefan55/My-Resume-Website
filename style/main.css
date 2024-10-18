@@ -294,3 +294,12 @@ span.project-desc {
   font-size: 0.8rem;
   margin-left: 2rem;
 }
+
+.mail-row {
+  display: flex;
+  justify-content: space-around;
+}
+
+.big {
+  font-size: 1.4rem;
+}
